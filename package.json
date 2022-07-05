@@ -1,0 +1,26 @@
+{
+  "name": "mongoose-ops",
+  "version": "1.0.0",
+  "description": "mongoose operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SauveJeanLuc/mongoose-operations.git"
+  },
+  "keywords": [
+    "mongoose",
+    "nodejs"
+  ],
+  "author": "Sauve Jean-Luc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SauveJeanLuc/mongoose-operations/issues"
+  },
+  "homepage": "https://github.com/SauveJeanLuc/mongoose-operations#readme",
+  "dependencies": {
+    "mongoose": "^6.4.3"
+  }
+}
